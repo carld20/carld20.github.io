@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics314animalFarm.png
+image: img/ics314UHDTlogo.jpg
 title: "University of Hawaii Drone Tech: UAV Software"
 date: 2023-04-20
 published: true
