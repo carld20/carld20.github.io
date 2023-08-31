@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/carld20/carld20.github.io/assets/99875976/5c625412-8b30-4c13-bd3d-e64c72867268
+image: ![image](https://github.com/carld20/carld20.github.io/assets/99875976/dd5decf0-4563-4159-9b08-cdd0d7dc87fe)
 title: "animalFarm"
 date: 2022-03-15
 published: true
