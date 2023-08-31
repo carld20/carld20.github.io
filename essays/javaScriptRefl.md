@@ -7,7 +7,7 @@ date: 2023-08-30
 published: true
 labels:
   - Engineering
-  -Athletic Software Engineering
+  - Athletic Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
