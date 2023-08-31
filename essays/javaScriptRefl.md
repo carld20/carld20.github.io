@@ -14,7 +14,7 @@ labels:
 
 ## Initial Thoughts
 
-JavaSscript, the only coding language that always makes me think about a good cup of coffee to help me grind on projects. With four coding languages now in my collection, I never thought this would be so much easier compared to the other three I have learned and worked with so far. Unlike C and C++, Javascript is not too heavy on data types. Working with this advantage allows me to think more about the coding problem than questioning myself "Should this be a 'float' or an 'int'?". Compared to python, Javascript's syntax is very easy to follow. Since I am more familiar with C and C++ syntax than python, I was able to learn the language pretty quickly.
+JavaScript, the only coding language that always makes me think about a good cup of coffee to help me grind on projects. With four coding languages now in my collection, I never thought this would be so much easier compared to the other three I have learned and worked with so far. Unlike C and C++, Javascript is not too heavy on data types. Working with this advantage allows me to think more about the coding problem than questioning myself "Should this be a 'float' or an 'int'?". Compared to python, Javascript's syntax is very easy to follow. Since I am more familiar with C and C++ syntax than python, I was able to learn the language pretty quickly.
 
 ## Room For Improvements
 
