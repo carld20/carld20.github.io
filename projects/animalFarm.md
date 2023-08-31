@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics3.4animalFarm.png
+image: img/ics314animalFarm.png
 title: "animalFarm"
 date: 2022-03-15
 published: true
