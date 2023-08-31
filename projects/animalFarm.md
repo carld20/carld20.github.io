@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/carld20/carld20.github.io/assets/99875976/dd5decf0-4563-4159-9b08-cdd0d7dc87fe
+image: img/micromouse/micromouse-square.jpg
 title: "animalFarm"
 date: 2022-03-15
 published: true
