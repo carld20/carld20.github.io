@@ -6,7 +6,7 @@
     "email": "carld20@hawaii.edu",
     "phone": "808-772-8490",
     "website": "https://carld20.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii with an expected graduation date of Spring 2024",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii with an expected graduation date of Spring 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "carld20", "url": "http://github.com/carld20" },
@@ -18,8 +18,8 @@
     { "name": "Computer Architecture" },
     { "name": "Software Engineering" },
     { "name": "Robotics" },
-    { "name": "Embedded Systems" }
-    { "name": "Photography" },
+    { "name": "Embedded Systems" },
+    { "name": "Photography" }
   ],
   "skills": [
     {
