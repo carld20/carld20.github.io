@@ -12,7 +12,7 @@ labels:
 summary: "I created a five staged pipeline processor using SystemVerilog in my EE361L course"
 ---
 
-<img class="img-fluid" src="../img/ics314fiveStagePipelineLab.png">
+<img class="img-fluid" src="../img/ics314fiveStageLab.png">
 
 In this lab we learned about digital design. At the start of the semester we have reviewed the SystemVerilog language using FPGA boards since we should have already covered the basics in EE260: Intro to Digital Designs. This course was very challenging but enjoyable at the same time. We coded an FPGA board multiple times where one of the projects was to create an ALU circuit where the switches from the FPGA board are used as inputs while the LEDs are used as the output. This purpose of the ALU was to either add, subtract, perform a logical OR or AND the two given four bit inputs from the switches.
 
