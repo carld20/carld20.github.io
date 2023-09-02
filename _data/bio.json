@@ -43,7 +43,10 @@
       "startDate": "2020",
       "endDate": "Present",
       "courses": [
-        "EE361", "EE362", "EE367"
+        "EE205: Object Oriented Programming",
+        "EE361: Digital Systems and Computer Design",
+        "EE362: Discrete Math for Engineers",
+        "EE367: Computer Data Structures and Algorithms"
       ]
     }
   ],
@@ -71,7 +74,8 @@
         "Plot accidents provided by HPD reports in Google Earth for their new application",
         "Collect vehicle speed data in Kalaniana'ole Highway for their speed bump and speed humps project",
         "Visited on going construction sites where projects where being done to provide a safer road"
-      
+      ]
+    },
     {
       "company": "Walmart",
       "position": "Sales Associate",
