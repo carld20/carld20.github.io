@@ -52,15 +52,15 @@
   ],
   "work": [
     {
-      "company": "McDonalds",
-      "position": "Crew Trainer",
+      "company": "Walmart",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2016-10-12",
-      "endDate": "2021-10-15",
-      "summary": "Trained newly hired crew members",
+      "startDate": "2021-10-20",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Provide great customer service",
-        "Train new hires to in a fast paced workplace"
+        "Aid customers with their shopping experience",
+        "Kept track of inventory to increase sales"
       ]
     },
     {
@@ -77,15 +77,15 @@
       ]
     },
     {
-      "company": "Walmart",
-      "position": "Sales Associate",
+      "company": "McDonalds",
+      "position": "Crew Trainer",
       "website": "",
-      "startDate": "2021-10-20",
-      "endDate": "Present",
-      "summary": "",
+      "startDate": "2016-10-12",
+      "endDate": "2021-10-15",
+      "summary": "Trained newly hired crew members",
       "highlights": [
-        "Aid customers with their shopping experience",
-        "Kept track of inventory to increase sales"
+        "Provide great customer service",
+        "Train new hires to in a fast paced workplace"
       ]
     }
   ],
