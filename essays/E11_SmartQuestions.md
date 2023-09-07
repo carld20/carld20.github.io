@@ -6,7 +6,9 @@ title: "Red Pill Question or Blue Pill Question"
 date: 2023-09-06
 published: true
 labels:
-  - 
+  - Engineering
+  - SMART Question
+  - Open Source Software
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ics314_E11.jpg">
