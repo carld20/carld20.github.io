@@ -19,7 +19,8 @@ labels:
 
 ## Good Practice
 
-
+Similarly to every bad news, there are some good news. ESLint can be very frustrating to work with when you are used to coding in your own way. Following this coding standard could help you find better ways to improve the looks of your code. So far I have noticed that including spaces here and there makes my code look cleaner. Having your code look neater can help you find your bugs much quicker. Having this benefit allowed me to reduce my time when I debug my code where previously it would take me quite some time just looking for the nasty bug. Since ESLint is widely used in the industry, many people who you might work with in the future can easily understand your code with little to no clarifications needed. Which is a great thing to have since I personally wouldn't want to be bothered about more coding after commiting a long, frustrating lines of code. 
 
 ## After Thoughts
 
+ESLint isn't too bad but at the similarly it takes time to get used to it. In my opinion it is a good practice to have. But again, debugging the actual code would be better to use most of my time in rather than correcting some punctuational errors. The benefit of finding a nasty bug much faster is such a great thing to have. I am able to actually think of what is wrong with the code rather than trying to scroll through the editor hundreds of times figuring out where and why is this part wrong. After some thinking, I now think ESLint is a very good way to introduce to amateur coders. I'm pretty sure graders and/or professors who has to look through students code would agree that introducing this coding standard to students would be a great start. But we just have to remember that not everything is for everyone.
