@@ -1,16 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "A Love-Hate Relationship with Coding and League of Legends"
+title: ""
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-10-305
 published: true
 labels:
-  - Computer Engineering
-  - Passion
+  - UI Framework
+  - Bootstrap5
+  - HTML
+  - CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ics314LOLlogo.jpg">
+<img width="200px" class="rounded float-start pe-4" src="img/ics_314bootstrap_logo.jpg">
 
 ## Too Similar
 
