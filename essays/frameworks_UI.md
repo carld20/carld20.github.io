@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A library of Styles"
+title: "A Library of Styles"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
@@ -14,14 +14,16 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ics314_bootstrap_logo.jpg">
 
-## Too Similar
+## Underscore Functions Part Two
 
-As a senior in computer engineering, my journey with coding has been both challenging and rewarding. Coding is an integral part of my academic and professional life, and it has taught me valuable problem-solving skills and critical thinking abilities. However, my experience with coding often reminds me of my relationship with the popular online game, League of Legends. Much like my love-hate relationship with League of Legends, coding can be frustrating at times, but its inherent fun and the sense of accomplishment it brings always draw me back. The feeling of a code running with no errors or bugs is like destroying the enemy fountain. Running through a bug you can't figure out how to solve is like hearing the game caster announce "Enemy triple kill". And hitting run and successfully compiling without knowing what you changed is like stealing the Baron Nashor from the enemy team and winning the game. The similarities are too close.
+Bootstrap 5 is literally Underscore functions but with style. This course is the first course I am currently taking that introduced me to the world of web designing; with that said, Bootstrap 5 is also the first framework I have ever used. With my past experiences of coding, I thought Bootstrap 5 is like another library that can make your code look cleaner and easier to work with. Instead of working with functions this time it's classes, since the coding language is HTML and CSS. Without Bootstrap 5, your text editor would be very cluttered and hard to understand with all the lines of code all over the place.
 
-## Debuggin is Like the Grey Screen of Death
+## Learning a New Language While Learning a New Language
 
-In the world of computers, coding is the foundation upon which all our innovations stand. It is the language we use to communicate with machines and create software solutions that drive technological advancements. Thousand lines of code can solve one of the biggest issue in our world. Just as in League of Legends, where mastering different champions and strategies takes time and practice, coding requires dedication and continuous learning. The process of debugging code and solving complex programming challenges can be exasperating, yet there is a certain thrill in successfully overcoming these hurdles that keeps me engaged and passionate about my field. These small struggles and setbacks allows me to try again and keep going to improve. Spending hours, maybe even days, figuring out what the problem to my code just shows that I just learned so many new things in coding. Getting creative on the solutions shows how comfortable I have become on the project I am currently working on. League of Legends might give me the worse team ever but it just taught me how to lead my team to victory while having a disadvantage. Changing my item builds shows how familiar I have become to the champion and role I am playing as.
+It's true; just like learning about libraries and implementing them into your code, using frameworks when designing a website is like a whole new language. You would need to to know new functions and new variables. Sometimes you can't even create a variable since it already exists within that framework or library. Initially, I had trouble alligning divs since the Bootstrap classes were quite hard to understand. But as I parcticed more and more with practice WODs, I was able to find a pattern which allowed me to finish the WOD much faster than what I had expected.
 
-## These Two Will Be Sticking with Me for Awhile
+## Overall Good
 
-Much like my persistent return to League of Legends, I find myself constantly returning to coding projects and assignments. It's the allure of creating something from scratch, the excitement of seeing lines of code come to life as functional software, that keeps me hooked. Just as League of Legends has a strong and dedicated community, the world of coding also offers a vibrant and supportive ecosystem of fellow programmers and developers. Through this journey, I have come to appreciate the parallels between my gaming experience and coding, where dedication, perseverance, and the joy of creation converge to make every challenge worthwhile. In the end, both my love for coding and my complex relationship with League of Legends have shaped my academic and personal growth, making me a more resilient and adaptable computer engineering student ready to take on the ever-evolving technology landscape.
+Raw HTML and CSS won't only make your website look old, but coding it will also be very hard and time consuming. By implementing frameworks, you can make your coding style look cleaner and easier to understand. It's like ESLint all over again. But this time, with Underscore functions. By doing practice WODs it became like a second language. It's literally like a second language.
+
+
