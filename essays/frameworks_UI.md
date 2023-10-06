@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "A library of Styles"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ics_314bootstrap_logo.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ics314_bootstrap_logo.jpg">
 
 ## Too Similar
 
