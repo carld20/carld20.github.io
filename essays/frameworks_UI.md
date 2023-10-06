@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: ""
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-305
+date: 2023-10-05
 published: true
 labels:
   - UI Framework
