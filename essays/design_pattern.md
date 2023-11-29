@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "ESLint: Not Bad But Not Good"
+title: "Let the Developer Cook"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
