@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="EE361 Five Stage Pipeline Processor | Carl Domingo | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://media.licdn.com/dms/image/D5603AQHtwNPAU68-LA/profile-displayphoto-shrink_800_800/0/1695433252244?e=1707955200&v=beta&t=WX_rK6wfNL7B0Ng4C2_a4SKPl2UTnDgt05y2pj47mM4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Carl Domingo | Professional Portfolio">
+    <meta property="og:url" content="https://carld20.github.io/projects/fiveStagePipeline.html">
+    <meta property="og:title" content="EE361 Five Stage Pipeline Processor | Carl Domingo | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://media.licdn.com/dms/image/D5603AQHtwNPAU68-LA/profile-displayphoto-shrink_800_800/0/1695433252244?e=1707955200&v=beta&t=WX_rK6wfNL7B0Ng4C2_a4SKPl2UTnDgt05y2pj47mM4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>EE361 Five Stage Pipeline Processor | Carl Domingo | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Carl Domingo</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">EE361 Five Stage Pipeline Processor</h1>
+ <p><img class="img-fluid" src="../img/ics314fiveStageLab.png" /></p>
+
+<p>In this lab we learned about digital design. At the start of the semester we have reviewed the SystemVerilog language using FPGA boards since we should have already covered the basics in EE260: Intro to Digital Designs. This course was very challenging but enjoyable at the same time. We coded an FPGA board multiple times where one of the projects was to create an ALU circuit where the switches from the FPGA board are used as inputs while the LEDs are used as the output. This purpose of the ALU was to either add, subtract, perform a logical OR or AND the two given four bit inputs from the switches.</p>
+
+<p>In the near end of the semester when we were more comfortable with SystemVerilog, we have created a five staged pipeline processor that stalls to avoid data and control hazards. To do so, the computer shall stall if there is a branch or conditional branch instruction downstream in the pipeline. The controller is able to check for a branch or unconditional branch by using the “branch” signal aat each of the stages. “Bubbles” would be inserted when there is a branch-type instruction in the EX, MEM, and WB stages. The program counter and IFID registers will also hold their values since the process is currently stalling. This project was very challenging but a bit enjoyable and made me consider about working in this field of computer engineering.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
